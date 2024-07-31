@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from "react";
-import pizzas from '../shared/Pizzas'
+import Pizzas from '../shared/Pizzas'
 
 const Listagem = () => {
     
